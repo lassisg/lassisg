@@ -15,7 +15,7 @@ And here I am, learning as much as I can! 💪
 <div>
   <a href="https://github.com/lassisg">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lassisg&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassisg&layout=compact&langs_count=8&theme=blueberry" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassisg&layout=compact&langs_count=10&theme=blueberry" />
   </a>
 </div>
 <div style="display: inline_block"><br>
