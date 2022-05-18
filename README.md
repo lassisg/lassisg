@@ -8,7 +8,7 @@ I love to solve problems using any programming language. For the past year, I en
 
 As I wrote above, I like to solve problems. And this means I'm willing to learn any tools that may help me do it. I first met Low-code in march 2020. After 3 weeks of training, and one more week of studying, I got 2 OuSystems certifications.
 
-This passion for solving problems led me to work with product support at Otsystems. Unfortuantely it didn't end as I expected, but I met great people and learned a lot.
+This passion for solving problems led me to work with product support at Otsystems for a while, where I met great people and learned a lot.
 
 And here I am, learning as much as I can! 💪
 
