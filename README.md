@@ -4,7 +4,7 @@ I love to solve problems using any programming language. For the past year, I en
 
 * 🏥 A medical equipments management system, in PHP (and using HTML5, CSS3 and Postgres)
 * 🩺 An Android app for evaluation of user stress using a biojacket to provide heart rate signals, using Java
-* 🔬 A desktop app for analyzing nanoparticle trajectories, using Python (an only Python)
+* 🔬 A desktop app for analyzing nanoparticle trajectories, using Python (and only Python)
 
 As I wrote above, I like to solve problems. And this means I'm willing to learn any tools that may help me do it. I first met Low-code in march 2020. After 3 weeks of training, and one more week of studying, I got 2 OuSystems certifications.
 
