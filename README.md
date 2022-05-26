@@ -1,4 +1,4 @@
-## Hi! I'm Leandro, a passionate developer.
+## Hi! I'm Leandro, a passionate developer
 
 I love to solve problems using any programming language. For the past year, I enrolled in a Biomedical Engineer Master course and developed some cool projects, such as:
 
