@@ -1,6 +1,6 @@
 ## Hi! I'm Leandro, a passionate developer
 
-I love to solve problems using any programming language. For the past year, I enrolled in a Biomedical Engineer Master course and developed some cool projects, such as:
+I love to solve problems using any programming language. From 2018 to 2021, I enrolled in a Biomedical Engineer Master course and developed some cool projects, such as:
 
 * 🏥 A medical equipments management system, in PHP (and using HTML5, CSS3 and Postgres)
 * 🩺 An Android app for evaluation of user stress using a biojacket to provide heart rate signals, using Java
