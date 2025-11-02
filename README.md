@@ -35,7 +35,7 @@ And here I am, learning as much as I can! 💪
 ---
 
 <div> 
-  <a href = "mailto:leandro@bigiogabriel.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:github@lagabriel.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=proton&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/leandro-assis-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://www.outsystems.com/profile/ililaskrzq/" target="_blank"><img src="https://img.shields.io/badge/-Outsystems-D14836?style=for-the-badge&logo=outsystems&logoColor=white" target="_blank"></a>
  
